@@ -23,27 +23,27 @@ class _DashBoardScreenState extends State<DashBoardScreen> {
     GridListItems(
         description: 'Access eBooks, Videos, lecture notes, etc.',
         title: 'Digital Library',
-        icon: "lib/assets/images/1-Digital Library.svg"),
+        icon: "assets/images/1-Digital Library.svg"),
     GridListItems(
         description: 'Enroll to online certification courses.',
         title: 'Courses',
-        icon: "lib/assets/images/2-Courses.svg"),
+        icon: "assets/images/2-Courses.svg"),
     GridListItems(
         description: 'list of College Events',
         title: 'Events',
-        icon: "lib/assets/images/3-Events.svg"),
+        icon: "assets/images/3-Events.svg"),
     GridListItems(
         description: 'Take up various online tests',
         title: 'Meetings',
-        icon: "lib/assets/images/4-Meetings.svg"),
+        icon: "assets/images/4-Meetings.svg"),
     GridListItems(
         description: 'Important College Announcements',
         title: 'Discussion Board',
-        icon: "lib/assets/images/5-Discussion Board.svg"),
+        icon: "assets/images/5-Discussion Board.svg"),
     GridListItems(
         description: 'Connect with institutions members',
         title: 'Members',
-        icon: "lib/assets/images/6-Members.svg"),
+        icon: "assets/images/6-Members.svg"),
   ];
 
   @override
